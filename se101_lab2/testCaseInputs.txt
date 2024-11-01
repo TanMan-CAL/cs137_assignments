@@ -1,0 +1,7 @@
+1,0,0,0,1,1,0,.*The area of the triangle.*0.5.*
+2,.*Expected 6 integer inputs; received.*
+3,1,2,23,.*Expected 6 integer inputs; received.*
+4,0,0,1,0,0,1,.*The area of the triangle.*0.5.*
+5,0,0,1,1,2,2,.*No area.*.*
+6,-1,-1,-4,-1,-1,-5,.*The area of the triangle.*6.0.*
+7,-1.5,-1.5,-4.5,-1,-1,-5.5,.*The area of the triangle.*5.87.*

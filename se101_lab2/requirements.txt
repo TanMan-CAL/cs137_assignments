@@ -1,0 +1,6 @@
+REQUIREMENTS.TXT!
+
+1. Program accepts six command-line INTEGER-ONLY arguments, which corresponds to three Cartesian points. From these points we can determine whether a triangle can be made or not.
+2. We determine the area of said triangle if it exists, else "No area is printed"
+3. If the area is determinable: "The area of the triangle formed by points (x1,y1), (x2,y2), and (x3,y3) is: __AREA__"
+
