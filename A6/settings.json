@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "random": "c",
+        "stdbool.h": "c",
+        "limits": "c",
+        "chrono": "c",
+        "semaphore": "c",
+        "algorithm": "c"
+    }
+}
