@@ -35,25 +35,25 @@ void doubleselectionsort(int a[], int len){
     }
 }
 
-// int main(void) {
+int main(void) {
    
-//     int a[7] = {4, 4, 4, 0, 0, -10, -10};
-//     doubleselectionsort(a,7);
+    int a[7] = {-10, -10, 45, 1000, -1000, -10, -10};
+    doubleselectionsort(a,7);
 
-//     int a2[5] = {6, 11, 2, -4, -1};
-//     doubleselectionsort(a2,5);
+    // int a2[5] = {6, 11, 2, -4, -1};
+    // doubleselectionsort(a2,5);
 
-//     int a3[10] = {1, 8, 5, 4, 6, 2, 5, 6, 2, 9};
-//     doubleselectionsort(a3,10);
+    // int a3[10] = {1, 8, 5, 4, 6, 2, 5, 6, 2, 9};
+    // doubleselectionsort(a3,10);
 
-//     int a4[8] = {1, 4, 3, 6, 5, 7, 2, 8};
-//     doubleselectionsort(a4,8);
+    // int a4[8] = {1, 4, 3, 6, 5, 7, 2, 8};
+    // doubleselectionsort(a4,8);
 
-//     // 1 8 5 4 6 2 5 6 2 9
-//     // 1 2 5 4 6 2 5 6 8 9
-//     // 1 2 2 4 6 5 5 6 8 9
-//     // 1 2 2 4 5 5 6 6 8 9
-//     // 1 2 2 4 5 5 6 6 8 9
+    // 1 8 5 4 6 2 5 6 2 9
+    // 1 2 5 4 6 2 5 6 8 9
+    // 1 2 2 4 6 5 5 6 8 9
+    // 1 2 2 4 5 5 6 6 8 9
+    // 1 2 2 4 5 5 6 6 8 9
 
-//     return 0;
-// }
+    return 0;
+}

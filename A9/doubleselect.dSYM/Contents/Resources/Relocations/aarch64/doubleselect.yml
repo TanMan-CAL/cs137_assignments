@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/tanmayshah/uwaterloo/SE_1A/CS_137/githubcode/cs137_assignments/A9/doubleselect'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _printarr, symObjAddr: 0x0, symBinAddr: 0x100003C70, symSize: 0xA4 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _printarr, symObjAddr: 0x0, symBinAddr: 0x100003C70, symSize: 0xA4 }
+  - { offsetInCU: 0x8F, offset: 0x8F, size: 0x8, addend: 0x0, symName: _doubleselectionsort, symObjAddr: 0xA4, symBinAddr: 0x100003D14, symSize: 0x1E0 }
+  - { offsetInCU: 0x13F, offset: 0x13F, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x284, symBinAddr: 0x100003EF4, symSize: 0x78 }
+...
