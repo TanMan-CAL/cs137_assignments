@@ -1,11 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
+
 typedef struct Person{
     int id;
     int speed;
     struct Person* next;
-}Person;
+} Person;
+
 Person updatePerson(int id, int speed){
     Person person;
     person.id = id;
